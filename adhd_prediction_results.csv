@@ -1,0 +1,38 @@
+impulsive_behaviors,restlessness,procrastination,losing_items,unable_to_sit_still,emotional_instability,ADHD_Prediction,Confidence_Score,Predicted_Status,ADHD_Actual,Prediction_Correct,impulsive_behaviors_flag,restlessness_flag,procrastination_flag,losing_items_flag,unable_to_sit_still_flag,emotional_instability_flag,Final_Assessment
+4,7,4,2,1,2,6.719871e-08,0.5,Không có khả năng bị ADHD,0,0,0,0,0,0,0,0,"Không có dấu hiệu rõ ràng, cần đánh giá thêm"
+4,7,4,2,1,2,6.719871e-08,0.5,Không có khả năng bị ADHD,0,0,0,0,0,0,0,0,"Không có dấu hiệu rõ ràng, cần đánh giá thêm"
+8,11,5,4,5,2,0.9998968,0.7310383,Không có khả năng bị ADHD,1,0,1,1,0,0,1,0,Có khả năng không bị ADHD
+4,4,5,4,0,1,2.3270914e-06,0.5000006,Không có khả năng bị ADHD,0,0,0,0,0,0,0,0,"Không có dấu hiệu rõ ràng, cần đánh giá thêm"
+2,3,3,5,0,2,4.7772246e-06,0.5000012,Không có khả năng bị ADHD,0,0,0,0,0,1,0,0,"Không có dấu hiệu rõ ràng, cần đánh giá thêm"
+5,5,4,3,1,1,1.8025552e-05,0.50000453,Không có khả năng bị ADHD,0,0,0,0,0,0,0,0,"Không có dấu hiệu rõ ràng, cần đánh giá thêm"
+5,11,5,5,5,1,0.99954474,0.730969,Không có khả năng bị ADHD,1,0,0,1,0,1,1,0,Có khả năng không bị ADHD
+1,7,4,5,2,3,8.851546e-05,0.5000221,Không có khả năng bị ADHD,0,0,0,0,0,1,0,1,"Không có dấu hiệu rõ ràng, cần đánh giá thêm"
+8,10,5,4,5,3,0.99992186,0.73104316,Không có khả năng bị ADHD,1,0,1,1,0,0,1,1,Có khả năng không bị ADHD
+4,6,3,3,2,2,0.00026105065,0.50006527,Không có khả năng bị ADHD,0,0,0,0,0,0,0,0,"Không có dấu hiệu rõ ràng, cần đánh giá thêm"
+4,7,5,3,3,2,0.0012794989,0.50031984,Không có khả năng bị ADHD,0,0,0,0,0,0,0,0,"Không có dấu hiệu rõ ràng, cần đánh giá thêm"
+0,2,4,3,1,2,1.2224854e-07,0.50000006,Không có khả năng bị ADHD,0,0,0,0,0,0,0,0,"Không có dấu hiệu rõ ràng, cần đánh giá thêm"
+5,11,7,4,5,2,0.99963236,0.7309863,Không có khả năng bị ADHD,1,0,0,1,1,0,1,0,Có khả năng không bị ADHD
+4,10,5,3,3,3,5.7297584e-05,0.5000143,Không có khả năng bị ADHD,0,0,0,1,0,0,0,1,"Không có dấu hiệu rõ ràng, cần đánh giá thêm"
+4,4,5,2,2,3,3.5445407e-07,0.5000001,Không có khả năng bị ADHD,0,0,0,0,0,0,0,1,"Không có dấu hiệu rõ ràng, cần đánh giá thêm"
+6,12,6,3,3,2,8.270496e-05,0.5000207,Không có khả năng bị ADHD,0,0,0,1,1,0,0,0,"Không có dấu hiệu rõ ràng, cần đánh giá thêm"
+3,3,2,1,0,2,1.0892298e-10,0.5,Không có khả năng bị ADHD,0,0,0,0,0,0,0,0,"Không có dấu hiệu rõ ràng, cần đánh giá thêm"
+5,9,5,4,2,2,0.0030636615,0.5007659,Không có khả năng bị ADHD,0,0,0,0,0,0,0,0,"Không có dấu hiệu rõ ràng, cần đánh giá thêm"
+3,5,1,2,1,1,3.9258023e-08,0.5,Không có khả năng bị ADHD,0,0,0,0,0,0,0,0,"Không có dấu hiệu rõ ràng, cần đánh giá thêm"
+6,5,5,4,1,3,1.1014801e-05,0.50000274,Không có khả năng bị ADHD,0,0,0,0,0,0,0,1,"Không có dấu hiệu rõ ràng, cần đánh giá thêm"
+4,1,1,0,0,0,1.7124904e-11,0.5,Không có khả năng bị ADHD,0,0,0,0,0,0,0,0,"Không có dấu hiệu rõ ràng, cần đánh giá thêm"
+5,6,5,3,3,3,0.000197286,0.50004935,Không có khả năng bị ADHD,0,0,0,0,0,0,0,1,"Không có dấu hiệu rõ ràng, cần đánh giá thêm"
+9,12,6,6,3,3,0.9997805,0.7310154,Không có khả năng bị ADHD,1,0,1,1,1,1,0,1,Có khả năng không bị ADHD
+8,9,5,6,4,3,0.99998325,0.7310553,Không có khả năng bị ADHD,1,0,1,0,0,1,0,1,Có khả năng không bị ADHD
+3,7,5,5,1,3,2.7205868e-05,0.5000068,Không có khả năng bị ADHD,0,0,0,0,0,1,0,1,"Không có dấu hiệu rõ ràng, cần đánh giá thêm"
+6,11,6,5,3,3,0.9457189,0.72025335,Không có khả năng bị ADHD,1,0,0,1,1,1,0,1,Có khả năng không bị ADHD
+3,5,5,6,1,3,0.00019433428,0.5000486,Không có khả năng bị ADHD,0,0,0,0,0,1,0,1,"Không có dấu hiệu rõ ràng, cần đánh giá thêm"
+0,0,0,0,0,0,1.8352744e-13,0.5,Không có khả năng bị ADHD,0,0,0,0,0,0,0,0,"Không có dấu hiệu rõ ràng, cần đánh giá thêm"
+6,11,6,6,2,3,0.7124564,0.67094374,Không có khả năng bị ADHD,1,0,0,1,1,1,0,1,Có khả năng không bị ADHD
+5,8,6,6,3,2,0.9986613,0.7307953,Không có khả năng bị ADHD,0,0,0,0,1,1,0,0,Có khả năng không bị ADHD
+6,9,6,6,4,3,0.99995893,0.7310505,Không có khả năng bị ADHD,1,0,0,0,1,1,0,1,Có khả năng không bị ADHD
+4,1,3,5,1,0,3.1499032e-05,0.50000787,Không có khả năng bị ADHD,0,0,0,0,0,1,0,0,"Không có dấu hiệu rõ ràng, cần đánh giá thêm"
+5,12,3,2,2,1,6.9503685e-08,0.5,Không có khả năng bị ADHD,0,0,0,1,0,0,0,0,"Không có dấu hiệu rõ ràng, cần đánh giá thêm"
+1,8,2,0,3,1,1.3311456e-10,0.5,Không có khả năng bị ADHD,0,0,0,0,0,0,0,0,"Không có dấu hiệu rõ ràng, cần đánh giá thêm"
+0,2,4,4,0,2,8.916132e-08,0.5,Không có khả năng bị ADHD,0,0,0,0,0,0,0,0,"Không có dấu hiệu rõ ràng, cần đánh giá thêm"
+3,6,4,4,1,2,7.790721e-05,0.5000195,Không có khả năng bị ADHD,0,0,0,0,0,0,0,0,"Không có dấu hiệu rõ ràng, cần đánh giá thêm"
+3,2,4,3,1,0,1.6870101e-06,0.5000004,Không có khả năng bị ADHD,0,0,0,0,0,0,0,0,"Không có dấu hiệu rõ ràng, cần đánh giá thêm"
